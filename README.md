@@ -16,16 +16,17 @@ To set up and run the project on your local machine, follow these steps:
 
             cd Redesign_Landing_page
 
-Install Dependencies
+### Install Dependencies
 Before starting the project, ensure that you have PHP and Composer installed on your machine. You can also use XAMPP for a more comprehensive development environment.
 
-PHP Installation
-Composer Installation
+[PHP Installation](https://www.php.net/manual/en/install.php)
+
+[Composer Installation](https://getcomposer.org/)
+
 
 ### Start the Laravel Development Server
-php artisan serve
+            php artisan serve
 
-After running the command, you should see the following message:
-Server running on [http://127.0.0.1:8000].
-
+### After running the command, you should see the following message:
+          [http://127.0.0.1:8000].
 
