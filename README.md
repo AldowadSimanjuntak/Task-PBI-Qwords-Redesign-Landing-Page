@@ -28,5 +28,5 @@ Before starting the project, ensure that you have PHP and Composer installed on 
             php artisan serve
 
 ### After running the command, you should see the following message:
-            Server running on [http://127.0.0.1:8000].
+          [http://127.0.0.1:8000].
 
